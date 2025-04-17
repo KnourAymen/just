@@ -1,0 +1,128 @@
+C:\Users\PC\source\repos\management R System\management R System\bin\Debug\management R System.exe.config
+C:\Users\PC\source\repos\management R System\management R System\bin\Debug\management R System.exe
+C:\Users\PC\source\repos\management R System\management R System\bin\Debug\management R System.pdb
+C:\Users\PC\source\repos\management R System\management R System\obj\Debug\management R System.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\management R System\management R System\obj\Debug\management_R_System.Form1.resources
+C:\Users\PC\source\repos\management R System\management R System\obj\Debug\management_R_System.Properties.Resources.resources
+C:\Users\PC\source\repos\management R System\management R System\obj\Debug\management R System.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\management R System\management R System\obj\Debug\management R System.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\management R System\management R System\obj\Debug\management R System.exe
+C:\Users\PC\source\repos\management R System\management R System\obj\Debug\management R System.pdb
+C:\Users\PC\source\repos\management R System\management R System\obj\Debug\management_R_System.Dashboard.resources
+C:\Users\PC\source\repos\management R System\management R System\obj\Debug\management_R_System.AllUserControls.US_Welcome.resources
+C:\Users\PC\source\repos\management R System\management R System\obj\Debug\management_R_System.AllUserControls.US_ADDItems.resources
+C:\Users\PC\source\repos\management R System\management R System\obj\Debug\management_R_System.AllUserControls.UC_PlaceOrder.resources
+C:\Users\PC\source\repos\management R System\management R System\obj\Debug\management_R_System.AllUserControls.US_PlaceOrder.resources
+C:\Users\PC\source\repos\management R System\management R System\obj\Debug\management_R_System.AllUserControls.UC_UpdateItems.resources
+C:\Users\PC\source\repos\management R System\management R System\obj\Debug\management_R_System.AllUserControls.UC_RemoveItem.resources
+C:\Users\PC\Desktop\management restauration\management R System\management R System\bin\Debug\management R System.exe.config
+C:\Users\PC\Desktop\management restauration\management R System\management R System\bin\Debug\management R System.exe
+C:\Users\PC\Desktop\management restauration\management R System\management R System\bin\Debug\management R System.pdb
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management R System.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management_R_System.AllUserControls.UC_PlaceOrder.resources
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management_R_System.AllUserControls.UC_RemoveItem.resources
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management_R_System.AllUserControls.UC_UpdateItems.resources
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management_R_System.AllUserControls.US_ADDItems.resources
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management_R_System.AllUserControls.US_PlaceOrder.resources
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management_R_System.AllUserControls.US_Welcome.resources
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management_R_System.Dashboard.resources
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management_R_System.Form1.resources
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management_R_System.Properties.Resources.resources
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management R System.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management R System.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management R System.exe
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management R System.pdb
+C:\Users\PC\Desktop\management restauration\management R System\management R System\obj\Debug\management_R_System.AllUserControls.UC_Reservation.resources
+C:\Users\HOUSSAM\Desktop\management R System\management R System\bin\Debug\management R System.exe.config
+C:\Users\HOUSSAM\Desktop\management R System\management R System\bin\Debug\management R System.exe
+C:\Users\HOUSSAM\Desktop\management R System\management R System\bin\Debug\management R System.pdb
+C:\Users\HOUSSAM\Desktop\management R System\management R System\obj\Debug\management R System.csproj.AssemblyReference.cache
+C:\Users\HOUSSAM\Desktop\management R System\management R System\obj\Debug\management_R_System.AllUserControls.UC_RemoveItem.resources
+C:\Users\HOUSSAM\Desktop\management R System\management R System\obj\Debug\management_R_System.AllUserControls.UC_Reservation.resources
+C:\Users\HOUSSAM\Desktop\management R System\management R System\obj\Debug\management_R_System.AllUserControls.UC_UpdateItems.resources
+C:\Users\HOUSSAM\Desktop\management R System\management R System\obj\Debug\management_R_System.AllUserControls.US_ADDItems.resources
+C:\Users\HOUSSAM\Desktop\management R System\management R System\obj\Debug\management_R_System.AllUserControls.US_PlaceOrder.resources
+C:\Users\HOUSSAM\Desktop\management R System\management R System\obj\Debug\management_R_System.AllUserControls.US_Welcome.resources
+C:\Users\HOUSSAM\Desktop\management R System\management R System\obj\Debug\management_R_System.Dashboard.resources
+C:\Users\HOUSSAM\Desktop\management R System\management R System\obj\Debug\management_R_System.Form1.resources
+C:\Users\HOUSSAM\Desktop\management R System\management R System\obj\Debug\management_R_System.Properties.Resources.resources
+C:\Users\HOUSSAM\Desktop\management R System\management R System\obj\Debug\management R System.csproj.GenerateResource.cache
+C:\Users\HOUSSAM\Desktop\management R System\management R System\obj\Debug\management R System.csproj.CoreCompileInputs.cache
+C:\Users\HOUSSAM\Desktop\management R System\management R System\obj\Debug\management R System.exe
+C:\Users\HOUSSAM\Desktop\management R System\management R System\obj\Debug\management R System.pdb
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\bin\Debug\management R System.exe.config
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\bin\Debug\management R System.exe
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\bin\Debug\management R System.pdb
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\obj\Debug\management R System.csproj.AssemblyReference.cache
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\obj\Debug\management_R_System.AllUserControls.UC_RemoveItem.resources
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\obj\Debug\management_R_System.AllUserControls.UC_Reservation.resources
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\obj\Debug\management_R_System.AllUserControls.UC_UpdateItems.resources
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\obj\Debug\management_R_System.AllUserControls.US_ADDItems.resources
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\obj\Debug\management_R_System.AllUserControls.US_PlaceOrder.resources
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\obj\Debug\management_R_System.AllUserControls.US_Welcome.resources
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\obj\Debug\management_R_System.Dashboard.resources
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\obj\Debug\management_R_System.Form1.resources
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\obj\Debug\management_R_System.Properties.Resources.resources
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\obj\Debug\management R System.csproj.GenerateResource.cache
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\obj\Debug\management R System.csproj.CoreCompileInputs.cache
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\obj\Debug\management R System.exe
+C:\Users\HOUSSAM\Desktop\PFE Restau\management R System\obj\Debug\management R System.pdb
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\bin\Debug\management R System.exe.config
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\bin\Debug\management R System.exe
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\bin\Debug\management R System.pdb
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\obj\Debug\management R System.csproj.AssemblyReference.cache
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\obj\Debug\management_R_System.AllUserControls.UC_RemoveItem.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\obj\Debug\management_R_System.AllUserControls.UC_Reservation.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\obj\Debug\management_R_System.AllUserControls.UC_UpdateItems.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\obj\Debug\management_R_System.AllUserControls.US_ADDItems.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\obj\Debug\management_R_System.AllUserControls.US_PlaceOrder.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\obj\Debug\management_R_System.AllUserControls.US_Welcome.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\obj\Debug\management_R_System.Dashboard.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\obj\Debug\management_R_System.Form1.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\obj\Debug\management_R_System.Properties.Resources.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\obj\Debug\management R System.csproj.GenerateResource.cache
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\obj\Debug\management R System.csproj.CoreCompileInputs.cache
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\obj\Debug\management R System.exe
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C\restau management\management R System\obj\Debug\management R System.pdb
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\bin\Debug\management R System.exe.config
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\bin\Debug\management R System.exe
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\bin\Debug\management R System.pdb
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management R System.csproj.AssemblyReference.cache
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management_R_System.AllUserControls.UC_RemoveItem.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management_R_System.AllUserControls.UC_Reservation.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management_R_System.AllUserControls.UC_UpdateItems.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management_R_System.AllUserControls.US_ADDItems.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management_R_System.AllUserControls.US_PlaceOrder.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management_R_System.AllUserControls.US_Welcome.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management_R_System.Dashboard.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management_R_System.Form1.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management_R_System.Properties.Resources.resources
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management R System.csproj.GenerateResource.cache
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management R System.csproj.CoreCompileInputs.cache
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management R System.exe
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management R System.pdb
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\bin\Debug\management R System.exe.manifest
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\bin\Debug\management R System.application
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management R System.exe.manifest
+C:\Users\HOUSSAM\Desktop\Gestion Restaurant C PFE Started\Restau Management S\management R System\obj\Debug\management R System.application
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\bin\Debug\management R System.exe.config
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\bin\Debug\management R System.exe.manifest
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\bin\Debug\management R System.application
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\bin\Debug\management R System.exe
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\bin\Debug\management R System.pdb
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management R System.csproj.AssemblyReference.cache
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management_R_System.AllUserControls.UC_RemoveItem.resources
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management_R_System.AllUserControls.UC_Reservation.resources
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management_R_System.AllUserControls.UC_UpdateItems.resources
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management_R_System.AllUserControls.US_ADDItems.resources
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management_R_System.AllUserControls.US_PlaceOrder.resources
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management_R_System.AllUserControls.US_Welcome.resources
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management_R_System.Dashboard.resources
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management_R_System.Form1.resources
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management_R_System.Properties.Resources.resources
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management R System.csproj.GenerateResource.cache
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management R System.csproj.CoreCompileInputs.cache
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management R System.exe.manifest
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management R System.application
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management R System.exe
+C:\Users\Aymen\Desktop\Reseaux\Restau Management S\Restau Management S\management R System\obj\Debug\management R System.pdb
